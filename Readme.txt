@@ -1,0 +1,1 @@
+Save computer.txt with extension.vbs
