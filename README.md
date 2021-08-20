@@ -31,17 +31,26 @@ Now open the saved file and you will a message box as shown in the image below.
 In above Code  X=MsgBox(“Message Description”,0+16,”Title”)  here is the explanation of this code.
 
 Message Description  – This is what you want to show as a Message.
+
 Button – Type of button, like OK, Yes, No, Cancel, etc
+
 Icon – Type of icon you want to show like Info icon, critical icon, etc
+
 Title – Title of message Box.
+
 1. You can write any number from 1,2,3 or 4 instead of 0 (before the ‘+’ symbol)
 Here is the meaning of these numbers:
 
 0 = OK Button,
+
 1 = OK / Cancel Button,
+
 2 = Abort / Retry / Ignore Button,
+
 3 = Yes / No / Cancel Button,
+
 4 = Yes / No Button,
+
 5 = Retry / Cancel Button
 
 2. You can write 32 or 48 or 64 instead of 16.
@@ -79,7 +88,7 @@ https://www.youtube.com/watch?v=ZdV6wKo5o1A
 If you face any trouble or want the similar prank Virus with exact messages as shown in the above video then you can download this file on your computer, copy and paste the code in Notepad and save it as Computer.vbs
 
 ### Download Prank Virus
-[Download](https://github.com/Chirag-Nahata/Virus/blob/main/computer.txt)
+[Download](https://github.com/Chirag-Nahata/Virus/blob/main/code.txt)
 
 Just download the file on your computer and create a shortcut of it on your desktop and change its icon. You may get an error while downloading the above file that it is a Malicious file which is not at all, download it anyway.
 
