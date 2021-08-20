@@ -1,0 +1,4 @@
+@Echo off
+Ipconfig /release
+
+Link - https://techgrinch.com/create-a-virus/

